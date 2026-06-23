@@ -2,6 +2,20 @@
 
 A personal portfolio website built with HTML, CSS, JavaScript, and a React/Vite demo app.
 
+
+
+FRONT PAGE INTERFACE
+
+
+<img width="1877" height="892" alt="Screenshot 2026-06-23 000819" src="https://github.com/user-attachments/assets/89689d88-d276-401a-95f8-a300e8cbf887" />
+
+
+
+
+
+
+
+
 ## Overview
 
 This repository contains a multi-page portfolio site that highlights:
